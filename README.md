@@ -2,4 +2,4 @@
 
 🚀Clone a Discord Website using HTML, CSS & Javascript✨
 
-Live:- https://kaurbhavsachi.github.io/Discord_clone
+Live:- https://kaurbhavsachi.github.io/Discord_clone/
